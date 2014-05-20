@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib
+END
+httpcore-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/httpcore-4.1.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/jdom.jar
+END
+appframework-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/appframework-1.0.3.jar
+END
+swing-worker-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/swing-worker-1.1.jar
+END
+AbsoluteLayout.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/AbsoluteLayout.jar
+END
+opencsv-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/opencsv-2.2.jar
+END
+commons-net-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/commons-net-2.2.jar
+END
+httpclient-4.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MatroskaStudyCoder/!svn/ver/1/dist/lib/httpclient-4.0.3.jar
+END

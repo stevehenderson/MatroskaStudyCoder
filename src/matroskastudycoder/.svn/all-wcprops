@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder
+END
+Experiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/Experiment.java
+END
+HttpControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/HttpControl.java
+END
+MatroskaStudyCoderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/MatroskaStudyCoderView.java
+END
+MatroskaStudyCoderView.form
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/MatroskaStudyCoderView.form
+END
+AbstractVLCPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/AbstractVLCPlayer.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/Video.java
+END
+VideoFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/VideoFile.java
+END
+MatroskaStudyCoderApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/MatroskaStudyCoderApp.java
+END
+SingleVideoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/SingleVideoPanel.java
+END
+StudyCoderAboutBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/StudyCoderAboutBox.java
+END
+SingleVideoPanel.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/SingleVideoPanel.form
+END
+StudyCoderAboutBox.form
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/StudyCoderAboutBox.form
+END
+IVideoPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/MatroskaStudyCoder/!svn/ver/1/src/matroskastudycoder/IVideoPlayer.java
+END
